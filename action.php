@@ -4,7 +4,7 @@
     //var_dump($_POST);
    if($_SERVER['REQUEST_METHOD'] == 'POST')
     {
-        // $nom = htmlspecialchars($_POST['nom']);
+        // $nom = htmlspecialchars($_POST['nom']); HJF
         // $prenom = htmlspecialchars($_POST['prenom']);
         // $classe = htmlspecialchars($_POST['classe']);
 
